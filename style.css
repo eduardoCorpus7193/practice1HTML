@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    font-family: "Century Gothic";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.main_container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+.inner_container{
+    border: 2px solid black;
+    background-color: purple;
+    padding: 10px 0;
+}
